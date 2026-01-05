@@ -1,6 +1,6 @@
-# Machine Learning Intern Projects 🚀
+# Artificial Intelligence Intern Projects 🚀
 
-A collection of simple machine learning projects for internship work.
+A collection of simple artificial intelligience projects for internship work.
 
 ## Projects
 
